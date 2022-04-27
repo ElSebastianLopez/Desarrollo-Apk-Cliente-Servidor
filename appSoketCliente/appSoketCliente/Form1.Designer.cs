@@ -48,7 +48,7 @@ namespace appSoketCliente
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Mongolian Baiti", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(12, 193);
+            this.button1.Location = new System.Drawing.Point(16, 327);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(264, 82);
             this.button1.TabIndex = 1;
@@ -58,16 +58,16 @@ namespace appSoketCliente
             // 
             // txtSmj
             // 
-            this.txtSmj.Location = new System.Drawing.Point(12, 359);
+            this.txtSmj.Location = new System.Drawing.Point(349, 212);
             this.txtSmj.Multiline = true;
             this.txtSmj.Name = "txtSmj";
-            this.txtSmj.Size = new System.Drawing.Size(551, 84);
+            this.txtSmj.Size = new System.Drawing.Size(418, 84);
             this.txtSmj.TabIndex = 2;
             // 
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Mongolian Baiti", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(168, 472);
+            this.button2.Location = new System.Drawing.Point(503, 327);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(264, 82);
             this.button2.TabIndex = 3;
@@ -79,7 +79,7 @@ namespace appSoketCliente
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Yi Baiti", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 327);
+            this.label1.Location = new System.Drawing.Point(12, 212);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(104, 21);
             this.label1.TabIndex = 4;
@@ -89,7 +89,7 @@ namespace appSoketCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 585);
+            this.ClientSize = new System.Drawing.Size(800, 426);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.txtSmj);

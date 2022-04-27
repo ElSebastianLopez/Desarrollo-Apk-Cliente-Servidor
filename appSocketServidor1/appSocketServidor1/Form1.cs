@@ -71,12 +71,23 @@ namespace appSocketServidor1
 
             }
         }
-
-
+        void enviarMensaje()
+        {
+            byte[] bytesToServer = new byte[1024];
+            bytesToServer = System.Text.Encoding.UTF8.GetBytes(txtMensajeS.Text);
+            servidor.Send(bytesToServer);
+            txtMensajeS.AppendText("Mensaje enviado a cliente:" + txtMensajeS.Text + Environment.NewLine);
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
             iniciarHilo();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            enviarMensaje();
+            txtMensajeS.Clear();
         }
     }
 }
