@@ -8,3 +8,14 @@ D:\Información Usuario\Nueva carpeta (3)\appSocketServidor1\appSoketCliente\app
 D:\Información Usuario\Nueva carpeta (3)\appSocketServidor1\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.csproj.CoreCompileInputs.cache
 D:\Información Usuario\Nueva carpeta (3)\appSocketServidor1\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.exe
 D:\Información Usuario\Nueva carpeta (3)\appSocketServidor1\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.pdb
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\bin\Debug\appSoketCliente.exe.config
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\bin\Debug\appSoketCliente.exe
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\bin\Debug\appSoketCliente.pdb
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.Form1.resources
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.exe
+C:\Users\alexi\OneDrive\Documentos\semestre5\Desarrollo-Apk-Cliente-Servidor\appSoketCliente\appSoketCliente\obj\Debug\appSoketCliente.pdb

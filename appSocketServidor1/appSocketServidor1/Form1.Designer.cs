@@ -42,15 +42,15 @@ namespace appSocketServidor1
             this.txtEventos.Multiline = true;
             this.txtEventos.Name = "txtEventos";
             this.txtEventos.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtEventos.Size = new System.Drawing.Size(560, 210);
+            this.txtEventos.Size = new System.Drawing.Size(714, 210);
             this.txtEventos.TabIndex = 0;
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(22, 375);
+            this.button1.Location = new System.Drawing.Point(10, 340);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(257, 63);
+            this.button1.Size = new System.Drawing.Size(339, 43);
             this.button1.TabIndex = 1;
             this.button1.Text = "Iniciar conexión";
             this.button1.UseVisualStyleBackColor = true;
@@ -59,9 +59,9 @@ namespace appSocketServidor1
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(490, 375);
+            this.button2.Location = new System.Drawing.Point(381, 340);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(263, 63);
+            this.button2.Size = new System.Drawing.Size(360, 43);
             this.button2.TabIndex = 10;
             this.button2.Text = "Enviar Mensaje";
             this.button2.UseVisualStyleBackColor = true;
@@ -71,7 +71,7 @@ namespace appSocketServidor1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(18, 269);
+            this.label1.Location = new System.Drawing.Point(25, 291);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(76, 20);
             this.label1.TabIndex = 9;
@@ -79,17 +79,16 @@ namespace appSocketServidor1
             // 
             // txtMensajeS
             // 
-            this.txtMensajeS.Location = new System.Drawing.Point(326, 269);
-            this.txtMensajeS.Multiline = true;
+            this.txtMensajeS.Location = new System.Drawing.Point(260, 293);
             this.txtMensajeS.Name = "txtMensajeS";
-            this.txtMensajeS.Size = new System.Drawing.Size(427, 68);
+            this.txtMensajeS.Size = new System.Drawing.Size(427, 20);
             this.txtMensajeS.TabIndex = 8;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(748, 442);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtMensajeS);

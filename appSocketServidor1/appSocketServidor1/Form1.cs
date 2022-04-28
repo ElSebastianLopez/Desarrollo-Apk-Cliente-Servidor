@@ -17,6 +17,7 @@ namespace appSocketServidor1
         Socket servidor = null;
         Thread HiloServidor;
         delegate void delegadoEvwnto(string msj);
+        Socket cliente;
         public Form1()
         {
             InitializeComponent();
@@ -57,7 +58,7 @@ namespace appSocketServidor1
                 + Environment.NewLine);
             servidor.Listen(1);
             //Acepta la conexión de un cliente
-            Socket cliente=servidor.Accept();
+            cliente=servidor.Accept();
             imprimirMsj("conexión establecida con cliente "
                 + Environment.NewLine);
 
@@ -75,8 +76,9 @@ namespace appSocketServidor1
         {
             byte[] bytesToServer = new byte[1024];
             bytesToServer = System.Text.Encoding.UTF8.GetBytes(txtMensajeS.Text);
-            servidor.Send(bytesToServer);
-            txtMensajeS.AppendText("Mensaje enviado a cliente:" + txtMensajeS.Text + Environment.NewLine);
+            cliente.Send(bytesToServer);
+            //txtMensajeS.AppendText("Mensaje enviado a cliente:" + txtMensajeS.Text + Environment.NewLine);
+            imprimirMsj("Mensaje enviado al cliente:"+txtMensajeS.Text + Environment.NewLine);
         }
 
         private void button1_Click(object sender, EventArgs e)
